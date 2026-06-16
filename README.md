@@ -2,7 +2,7 @@
 
 **Les world models sont-ils l'après-LLM, et que se passe-t-il si la bulle éclate.**
 
-*Réflexion spéculative, 16 juin 2026.*
+*Réflexion spéculative, 16 juin 2026. English version: [README.en.md](README.en.md).*
 
 ---
 
