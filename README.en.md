@@ -32,7 +32,7 @@ No. It will be dethroned, not deleted. The cost per token is collapsing by rough
 
 A correction is likely, and AMI is its clearest symptom. Three and a half billion in valuation for a dozen people with no product, and it is the CEO himself, Alexandre LeBrun, who warns that "in six months, every company will call itself a world model to raise funding." Add the circular financing, NVIDIA investing in its own customers to prop up demand for its chips, and you have the signature of a bubble. But two things must be separated. The technology is not a bubble, the prices and the timeline are. It is the internet in 1999: the web was real, the 1999 valuations were not. The crash did not kill the web, it killed the prices.
 
-The trap, and this is in direct continuity with what I describe in [`souverainete-ia`](https://github.com/12georgiadis/souverainete-ia), is that a bursting bubble does not level the field, it impoverishes the weakest first. Europe, already on the edge of recession, would cut its patient capital before the others. So a crash of American AI would not be good news for the European sovereign bet, it would be its main threat. The world dreams of a correction that would punish the giants, it forgets that the small are always punished first.
+The trap, and this is in direct continuity with what I describe in [`souverainete-ia`](https://github.com/ismael-joffroy-chandoutis/souverainete-ia), is that a bursting bubble does not level the field, it impoverishes the weakest first. Europe, already on the edge of recession, would cut its patient capital before the others. So a crash of American AI would not be good news for the European sovereign bet, it would be its main threat. The world dreams of a correction that would punish the giants, it forgets that the small are always punished first.
 
 ## What remains
 
@@ -44,4 +44,4 @@ I believe in the world that comes next. I believe that models which build themse
 
 *Ismaël Joffroy Chandoutis*
 
-*In continuity with [souverainete-ia](https://github.com/12georgiadis/souverainete-ia) and [decentralized-compute-sota](https://github.com/12georgiadis/decentralized-compute-sota). License: [CC BY-NC-ND 4.0](LICENSE.md).*
+*In continuity with [souverainete-ia](https://github.com/ismael-joffroy-chandoutis/souverainete-ia) and [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota). License: [CC BY-NC-ND 4.0](LICENSE.md).*

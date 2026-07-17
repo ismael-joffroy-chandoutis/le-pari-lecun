@@ -32,7 +32,7 @@ Non. Il sera détrôné, pas supprimé. Le coût par token s'effondre d'environ 
 
 Une correction est probable, et AMI en est le symptôme le plus net. Trois milliards et demi de valorisation pour une douzaine de personnes sans produit, et c'est le PDG lui-même, Alexandre LeBrun, qui prévient que « dans six mois, toutes les boîtes se diront world model pour lever des fonds ». Ajoutez le financement circulaire, NVIDIA qui investit chez ses propres clients pour soutenir la demande de ses puces, et vous avez la signature d'une bulle. Mais il faut séparer deux choses. La technologie n'est pas une bulle, les prix et le calendrier en sont une. C'est l'internet en 1999 : le web était réel, les valorisations de 1999 non. Le krach n'a pas tué le web, il a tué les prix.
 
-Le piège, et c'est la continuité directe avec ce que je décris dans [`souverainete-ia`](https://github.com/12georgiadis/souverainete-ia), c'est qu'une bulle qui éclate ne remet pas le terrain à plat, elle appauvrit d'abord le plus faible. L'Europe, déjà au bord de la récession, couperait son capital patient avant les autres. Un krach de l'IA américaine ne serait donc pas une bonne nouvelle pour le pari souverain européen, ce serait sa principale menace. Le monde rêve d'une correction qui punirait les géants, il oublie qu'on punit toujours les petits en premier.
+Le piège, et c'est la continuité directe avec ce que je décris dans [`souverainete-ia`](https://github.com/ismael-joffroy-chandoutis/souverainete-ia), c'est qu'une bulle qui éclate ne remet pas le terrain à plat, elle appauvrit d'abord le plus faible. L'Europe, déjà au bord de la récession, couperait son capital patient avant les autres. Un krach de l'IA américaine ne serait donc pas une bonne nouvelle pour le pari souverain européen, ce serait sa principale menace. Le monde rêve d'une correction qui punirait les géants, il oublie qu'on punit toujours les petits en premier.
 
 ## Ce qui reste
 
@@ -44,6 +44,6 @@ Je crois au monde d'après. Je crois que les modèles qui se construisent un mon
 
 *Ismaël Joffroy Chandoutis*
 
-*Dans la continuité de [souverainete-ia](https://github.com/12georgiadis/souverainete-ia) et [decentralized-compute-sota](https://github.com/12georgiadis/decentralized-compute-sota). Licence : [CC BY-NC-ND 4.0](LICENSE.md).*
+*Dans la continuité de [souverainete-ia](https://github.com/ismael-joffroy-chandoutis/souverainete-ia) et [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota). Licence : [CC BY-NC-ND 4.0](LICENSE.md).*
 
 Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
